@@ -40,13 +40,3 @@ checkBtn.addEventListener('click', e => {
 
 
 
-
-
-
-//
-// if ((0 === year % 4) && (0 != year % 100) || (0 === year % 400)) {
-//   result.innerText = year + " is a Leap Year";
-// } else {
-//   result.innerText = year + " is not a Leap Year";
-// }
-
